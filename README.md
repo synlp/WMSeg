@@ -1,6 +1,6 @@
 # WMSeg
 
-This is the implementation of [Improving  Chinese  Word  Segmentation  with  Wordhood  Memory  Networks](https://www.aclweb.org/anthology/2020.acl-main.734/) at ACL2020.
+This is the **upgraded version** of our [original implementation](https://github.com/SVAIGBA/WMSeg) of [Improving  Chinese  Word  Segmentation  with  Wordhood  Memory  Networks](https://www.aclweb.org/anthology/2020.acl-main.734/) at ACL2020. All future improvements and upgrades of the project will be updated here.
 
 Please contact Yuanhe Tian at `yhtian@uw.edu` if you have any questions.
 
